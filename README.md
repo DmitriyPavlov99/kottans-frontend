@@ -5,14 +5,14 @@
 - [x] Тиждень 1:
 <details>
   <summary>Week1</summary>
-  <img src = "![image](https://user-images.githubusercontent.com/104227936/182594627-a176d338-f615-4959-bf37-054fb7f8ffeb.png)
+  <img src = "https://user-images.githubusercontent.com/104227936/182594627-a176d338-f615-4959-bf37-054fb7f8ffeb.png"
 ">
 </details>
 
 - [x] Тиждень 2:
 <details>
   <summary>Week2</summary>
-  <img src = "![image](https://user-images.githubusercontent.com/104227936/182594693-9c722da9-47eb-498f-a2a0-4dc3992c40c2.png)
+  <img src = "https://user-images.githubusercontent.com/104227936/182594693-9c722da9-47eb-498f-a2a0-4dc3992c40c2.png"
 ">
 </details>
 
