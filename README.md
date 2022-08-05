@@ -45,12 +45,12 @@
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
 - [ ] [Git tips — закріпити свої знання про Git](https://www.webfx.com/blog/web-design/git-tips/)
-- [ ] [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
-- [ ] [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
-- [ ] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
-- [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
-- [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/)
-- [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) 
+- [x] [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts) - варто почитати.
+- [x] [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) - дуже стане в нараді, коли будуть з'являтись такі конфлікти.
+- [x] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - додаток від гітХаба хм,буду цікавитись.
+- [x] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end) - дуже наглядна структура IT мов,супер.
+- [x] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) - корисна річ,візьму на озброєння.
+- [x] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) - так,стаття дуже цікава. В деяких моментах впізнаю себе раніше, коли не вірив в себе, що все важко. Але потрібно працювати,вчитись, тільки так можна чогось досягнути.
 
 ## GENERAL SUMMARY:
 Масса цікавої інформації,починаючи від курса Курсера,закінчуючи додатковими матеріалами.Добрий старт для новачків.Git це дуже важливо у нашому часі.Я вже мав досвід та за допомогою Вас,додатково закріпив матеріал.
@@ -73,8 +73,45 @@
 Поки вивчаю FrontEnd не було думки щоб поцікавитись що ж таке HTTP,протоколи,з чого складається URL та і як працює ця система. Але я ж майбутній веб-розробник,і я тепер повинен розуміти ці моменти задля подальшого розвитку.Дякую.
 
 ## Additional
-- [ ] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
-- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
-- [ ] [Command Line Power User](https://commandlinepoweruser.com/) 
-- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) 
-- [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [x] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189) - корисно, але Python поки, що не в моїх планах.
+- [x] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7) - вважаю що ця стаття, ця теорія допомагає скласти уявлення про вебпакети,протоколи і запроси на сервер та відповіді.
+- [x] [Command Line Power User](https://commandlinepoweruser.com/) - гарне доповнення к матеріалу по гіту.
+- [x] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) - лінукс поки що не в планах.
+- [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - варто уваги,ще і безкоштовні курси.
+## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+- [x] Тиждень 3:
+<details>
+  <summary>Week3</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183075025-3bac392b-3ac2-4a0f-86be-1a6fc7449452.png">
+</details>
+
+- [x] Тиждень 4:
+<details>
+  <summary>Week4</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183075244-5047aee1-89b4-4c4b-a17a-53fdb3ba5a97.png">
+</details>
+  
+  ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+  
+- [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
+<details>
+  <summary>Basics</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183072212-2516638a-3970-4981-b3e0-ae2aceb7a547.png">
+</details>
+
+- [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
+<details>
+  <summary>Git advanced</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183072364-ab61903e-6dab-4bbc-94db-68e02fcc7ba5.png">
+</details>
+  
+  ## Вивчити додаткові матеріали
+- [x] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
+- [x] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+- [x] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [x] [GitHub Learning Lab](https://lab.github.com/) - знайомий сервіс,дуже схожий на гітхаб.
+
+### SUMMARY:
+Продовжую займатись і мені це довподоби.Нові знання,закріплюю гіт, та практика у learngitbranching.js.org.Практика з гітом я вважаю в майбутньому знайде своє місце.Я вже буду це вміти робити коли наприклад буду складати своє резюме.
+
+
