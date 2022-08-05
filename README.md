@@ -78,3 +78,40 @@
 - [x] [Command Line Power User](https://commandlinepoweruser.com/) - гарне доповнення к матеріалу по гіту.
 - [x] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) - лінукс поки що не в планах.
 - [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - варто уваги,ще і безкоштовні курси.
+## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+- [x] Тиждень 3:
+<details>
+  <summary>Week3</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183075025-3bac392b-3ac2-4a0f-86be-1a6fc7449452.png">
+</details>
+
+- [x] Тиждень 4:
+<details>
+  <summary>Week4</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183075244-5047aee1-89b4-4c4b-a17a-53fdb3ba5a97.png">
+</details>
+  
+  ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+  
+- [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
+<details>
+  <summary>Basics</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183072212-2516638a-3970-4981-b3e0-ae2aceb7a547.png">
+</details>
+
+- [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
+<details>
+  <summary>Git advanced</summary>
+  <img src = "https://user-images.githubusercontent.com/104227936/183072364-ab61903e-6dab-4bbc-94db-68e02fcc7ba5.png">
+</details>
+  
+  ## Вивчити додаткові матеріали
+- [x] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
+- [x] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+- [x] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [x] [GitHub Learning Lab](https://lab.github.com/) - знайомий сервіс,дуже схожий на гітхаб.
+
+### SUMMARY:
+Продовжую займатись і мені це довподоби.Нові знання,закріплюю гіт, та практика у learngitbranching.js.org.Практика з гітом я вважаю в майбутньому знайде своє місце.Я вже буду це вміти робити коли наприклад буду складати своє резюме.
+
+
