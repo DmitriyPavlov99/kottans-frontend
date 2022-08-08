@@ -133,12 +133,12 @@
   <img src = "https://github.com/DmitriyPavlov99/kottans-frontend/blob/main/task_html_css_intro/Screenshot_3.png">
 </details>
   ## Вивчити додаткові матеріали
-- [] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)
-- [] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)
-- [] [freecodecamp.org](https://www.freecodecamp.org/)
-- [] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
-- [] [Can’t Unsee](https://cantunsee.space/)
-- [] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+- [x] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)
+- [x] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)
+- [x] [freecodecamp.org](https://www.freecodecamp.org/)
+- [x] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
+- [x] [Can’t Unsee](https://cantunsee.space/)
+- [x] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
 ### SUMMARY:
 Гарно повторив html,css,дізнався що таке boostrap grid. Хвилював цей момент. Курси на [кодакадемі](https://www.codecademy.com/) дуже прийшли довпободи. Я проходжу на freecodecamp зараз,тому дуже схожі, але практика не буває зайвою.
