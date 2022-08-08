@@ -114,4 +114,31 @@
 ### SUMMARY:
 Продовжую займатись і мені це довподоби.Нові знання,закріплюю гіт, та практика у learngitbranching.js.org.Практика з гітом я вважаю в майбутньому знайде своє місце.Я вже буду це вміти робити коли наприклад буду складати своє резюме.
 
+## Front-End Basics
+## Курс [Intro to HTML & CSS](https://kottans.org/frontend/tasks/html-css-intro.html):
 
+- [x] Прослухати тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers). - HTML,CSS вже знав, але повторити ще і у цікавому відео-форматі було доречно і корисно.
+<details>
+  <summary>Week1</summary>
+  <img src = "https://github.com/DmitriyPavlov99/kottans-frontend/blob/main/task_html_css_intro/Screenshot_1.png">
+</details>
+<details>
+ <summary>Week2</summary>
+  <img src = "https://github.com/DmitriyPavlov99/kottans-frontend/blob/main/task_html_css_intro/Screenshot_2.png">
+</details>
+
+## [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html) та [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+<details>
+  <summary>Complete</summary>
+  <img src = "https://github.com/DmitriyPavlov99/kottans-frontend/blob/main/task_html_css_intro/Screenshot_3.png">
+</details>
+  ## Вивчити додаткові матеріали
+- [] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)
+- [] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)
+- [] [freecodecamp.org](https://www.freecodecamp.org/)
+- [] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
+- [] [Can’t Unsee](https://cantunsee.space/)
+- [] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+
+### SUMMARY:
+Гарно повторив html,css,дізнався що таке boostrap grid. Хвилював цей момент. Курси на [кодакадемі](https://www.codecademy.com/) дуже прийшли довпободи. Я проходжу на freecodecamp зараз,тому дуже схожі, але практика не буває зайвою.
